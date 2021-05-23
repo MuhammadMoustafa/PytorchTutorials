@@ -1,6 +1,6 @@
 # PytorchTutorials
 ## Handwritten letter detection using deep learning and pytorch
 
-###Steps:
+### Steps:
 1. extract zip files
 2. run the notebook
